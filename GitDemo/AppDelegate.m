@@ -16,7 +16,13 @@
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
-    NSLog(@"123");
+    NSLog(@"删除空行，并添加一行");
+    
+    
+    NSLog(@"123213213213");
+    
+    
+    
     return YES;
 }
 
